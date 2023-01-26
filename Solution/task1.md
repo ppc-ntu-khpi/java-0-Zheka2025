@@ -1,6 +1,6 @@
 # Завдання 1. Створення та запуск першої програми (сорочки)
 
-####Стартовий код:
+Стартовий код:
 ``` java
 public class Shirt {
   public int shirtID = 0; // стандартне значення номера моделі сорочки
@@ -21,11 +21,12 @@ public class Shirt {
 } // кінець опису класу
 ```
 
-####Результат стартового кода:
+**Результат стартового кода:**
+
 ![alt-текст](https://github.com/ppc-ntu-khpi/java-0-Zheka2025/blob/main/Solution/task1.1.png?raw=true "Результат стартового кода")
 
 
-####Замінив у файлі Shirt.java номер сорочки, її опис та вартість довільними значеннями:
+Замінив у файлі Shirt.java номер сорочки, її опис та вартість довільними значеннями:
 ```java
 public class Shirt {
   public int shirtID = 0; // стандартне значення номера моделі сорочки
@@ -45,7 +46,8 @@ public class Shirt {
   } // кінець методу displayShirtInformation
 } // кінець опису класу
 ```
-####Результат:
+**Результат:
+
 ![alt-текст](https://github.com/ppc-ntu-khpi/java-0-Zheka2025/blob/main/Solution/task1.2.png?raw=true "Результат зміненого кода")
 
 
