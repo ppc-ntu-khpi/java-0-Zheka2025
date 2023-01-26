@@ -25,7 +25,7 @@ public class Shirt {
 
 ![alt-текст](https://github.com/ppc-ntu-khpi/java-0-Zheka2025/blob/main/Solution/task1.1.png?raw=true "Результат стартового кода")
 
-
+---
 Замінив у файлі Shirt.java номер сорочки, її опис та вартість довільними значеннями:
 ```java
 public class Shirt {
