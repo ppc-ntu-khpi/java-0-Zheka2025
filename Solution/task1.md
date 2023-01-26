@@ -46,9 +46,10 @@ public class Shirt {
   } // кінець методу displayShirtInformation
 } // кінець опису класу
 ```
-**Результат:
+**Результат:**
 
 ![alt-текст](https://github.com/ppc-ntu-khpi/java-0-Zheka2025/blob/main/Solution/task1.2.png?raw=true "Результат зміненого кода")
 
+-----
 
 
