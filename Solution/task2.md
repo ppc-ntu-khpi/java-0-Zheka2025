@@ -15,7 +15,7 @@ public class Quotation {
 ![alt-текст](https://github.com/ppc-ntu-khpi/java-0-Zheka2025/blob/main/Solution/task2.1.png?raw=true "Результат стартового кода")
 
 
-####Замінив у файлі **Quotation.java** текст довільною цитатою та вивів ім'я того, кому вона належить:
+##Замінив у файлі **Quotation.java** текст довільною цитатою та вивів ім'я того, кому вона належить:
 ```java
 public class Quotation {
   String author = " – Ralph Waldo Emerson";
